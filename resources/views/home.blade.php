@@ -277,7 +277,7 @@
     
     <div class="category-cards">
         <div class="category-card">
-            <img src="/images/products/sac-sport-pro.svg" alt="Sacs de sport">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFfhzlaR2KI37WLs0Od-c4Qhp56Dp0Iky9fQ&s" alt="Sacs de sport">
             <div class="category-card-content">
                 <h3>Sacs de Sport</h3>
                 <p>Design élégant, compartimenté et fonctionnel pour tous vos déplacements</p>
@@ -286,7 +286,7 @@
         </div>
         
         <div class="category-card">
-            <img src="/images/products/halteres-ajustables.svg" alt="Accessoires fitness">
+            <img src="https://m.media-amazon.com/images/I/71gzagiKrjL._AC_SL1500_.jpg" alt="Accessoires fitness">
             <div class="category-card-content">
                 <h3>Accessoires Fitness</h3>
                 <p>Matériel d'entraînement innovant pour des séances efficaces</p>
@@ -295,7 +295,7 @@
         </div>
         
         <div class="category-card">
-            <img src="/images/products/montre-running-gps.svg" alt="Équipements running">
+            <img src="https://www.sport-passion.fr/pictures/comparatif-montres-cartographie.jpg" alt="Équipements running">
             <div class="category-card-content">
                 <h3>Running & Trail</h3>
                 <p>Équipements techniques pour optimiser vos performances</p>

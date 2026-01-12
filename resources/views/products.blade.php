@@ -321,7 +321,7 @@
                     <td>
                         <div style="display: flex; align-items: center; gap: 15px;">
                             <div class="product-image">
-                                <img src="/images/products/sac-sport-pro.svg" alt="Sac Sport Pro">
+                                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFfhzlaR2KI37WLs0Od-c4Qhp56Dp0Iky9fQ&s" alt="Sac Sport Pro">
                             </div>
                             <div>
                                 <div class="product-name">Sac Sport Pro 2024</div>
@@ -346,7 +346,7 @@
                     <td>
                         <div style="display: flex; align-items: center; gap: 15px;">
                             <div class="product-image">
-                                <img src="/images/products/halteres-ajustables.svg" alt="Haltères ajustables">
+                                <img src="https://m.media-amazon.com/images/I/71gzagiKrjL._AC_SL1500_.jpg" alt="Haltères ajustables">
                             </div>
                             <div>
                                 <div class="product-name">Haltères ajustables</div>
@@ -370,7 +370,7 @@
                     <td>
                         <div style="display: flex; align-items: center; gap: 15px;">
                             <div class="product-image">
-                                <img src="/images/products/montre-running-gps.svg" alt="Montre Running GPS">
+                                <img src="https://www.sport-passion.fr/pictures/comparatif-montres-cartographie.jpg" alt="Montre Running GPS">
                             </div>
                             <div>
                                 <div class="product-name">Montre Running GPS Pro</div>
@@ -395,7 +395,7 @@
                     <td>
                         <div style="display: flex; align-items: center; gap: 15px;">
                             <div class="product-image">
-                                <img src="/images/products/gourde-isotherme.svg" alt="Gourde Isotherme">
+                                <img src="https://www.objetpubdesign.com/171100-thickbox_default/bouteille-isotherme-personnalisable-1l-en-acier-recycle-avira.jpg" alt="Gourde Isotherme">
                             </div>
                             <div>
                                 <div class="product-name">Gourde Isotherme 1L</div>
@@ -420,7 +420,7 @@
                     <td>
                         <div style="display: flex; align-items: center; gap: 15px;">
                             <div class="product-image">
-                                <img src="/images/products/brassard-running.svg" alt="Brassard Téléphone">
+                                <img src="https://m.media-amazon.com/images/I/61ka1wm7VzL.jpg" alt="Brassard Téléphone">
                             </div>
                             <div>
                                 <div class="product-name">Brassard Running Premium</div>
